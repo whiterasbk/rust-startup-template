@@ -18,9 +18,6 @@
         "args": [
           "run",
           "--color=always"
-          // "--release",
-          // "--",
-          // "arg1"
         ],
         "group": {
           "kind": "build",
